@@ -1,13 +1,13 @@
-LEAN LEDGER — 153 graded games  [xw+plat_consol_v1]
-xwOBA lean   full: 85-68  (0.556)   F5: 66-62-25  (0.516)
-platoon lean full: 63-53  (0.543)   F5: 54-42-20  (0.562)   (reliable-only, n=116)
-xwOBA on same subset  full: 62-54  (0.534)   F5: 48-48-20  (0.500)
+LEAN LEDGER — 154 graded games  [xw+plat_consol_v1]
+xwOBA lean   full: 86-68  (0.558)   F5: 67-62-25  (0.519)
+platoon lean full: 64-53  (0.547)   F5: 55-42-20  (0.567)   (reliable-only, n=117)
+xwOBA on same subset  full: 63-54  (0.538)   F5: 49-48-20  (0.505)
 xwOBA F5 by |Δ| tercile:
   low  23-21-10  (0.523)   (Δ 0.000–0.026, n=54)
-  mid  25-18-9  (0.581)   (Δ 0.027–0.050, n=52)
-  hi   18-23-6  (0.439)   (Δ 0.051–0.266, n=47)
+  mid  24-15-9  (0.615)   (Δ 0.027–0.049, n=48)
+  hi   20-26-6  (0.435)   (Δ 0.050–0.266, n=52)
 DIVERGE h2h (F5): xwOBA 4 — platoon 10  (n=17)
-home F5 baseline: 0.531  (n=128)
-weight fit: 128 usable F5 decisions (gate 120)
-  b_lineup=-0.258±0.182  b_sp=+0.007±0.179  HFA=+0.127
+home F5 baseline: 0.527  (n=129)
+weight fit: 129 usable F5 decisions (gate 120)
+  b_lineup=-0.228±0.180  b_sp=+0.008±0.178  HFA=+0.110
   implied w = b_sp/b_lineup = -0.01  (symmetric log5 ⇒ ≈ +1.00)
