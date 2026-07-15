@@ -1,4 +1,15 @@
-# mlb-matchup-site
+# mlb-matchup-site — RETIRED (2026-07-15)
+
+**This repo is retired.** The DK closing-odds join (`market_backfill.py`,
+vs-market scoreboard) was ported into the original, trusted model at
+[Dave356w/Dave356w](https://github.com/Dave356w/Dave356w), which serves
+the live site at <https://dave356w.github.io/Dave356w/>. This repo's model
+had diverged from the trusted one (slate-dependent platoon priors,
+roster-projected lineups on partial posts, no batted-ball anchors), so its
+values were not comparable. The published pages here now redirect; the
+schedule is disabled; the old pipeline and its ledger remain in git history.
+
+---
 
 Daily MLB matchup lean models with a graded W/L ledger and a vs-market
 scoreboard, built and deployed by GitHub Actions.
